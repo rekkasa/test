@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "test-website"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/logo.png"
+    pinned: false
+    align: left
+    tools:
+      - icon: github
+        href: https://github.com/sta210-s22
+        text: "GitHub organization"
+
+    style: "docked"
+    search: true
+
+    contents:
+      - section: "Course information"
+        contents:
+          - href: course_overview.qmd
+            text: Course overview
+          - href: course_syllabus.qmd
+            text: Course syllabus
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

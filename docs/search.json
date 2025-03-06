@@ -1,0 +1,31 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "course_overview.html",
+    "href": "course_overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "This is the course overview…",
+    "crumbs": [
+      "Course information",
+      "Course overview"
+    ]
+  },
+  {
+    "objectID": "course_syllabus.html",
+    "href": "course_syllabus.html",
+    "title": "Course syllabus",
+    "section": "",
+    "text": "This the course syllabus…",
+    "crumbs": [
+      "Course information",
+      "Course syllabus"
+    ]
+  }
+]
